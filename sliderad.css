@@ -16,3 +16,12 @@
   width: 100%;
   max-width: 830px;
 }
+
+/* newsplus theme */
+.newsplus .block-etype-sliderad {
+  padding: 0;
+}
+
+.newsplus #adone img, .newsplus #adtwo img {
+  max-width: 945px;
+}
